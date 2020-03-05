@@ -1,0 +1,777 @@
+E:\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+E:\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+E:\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+E:\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\XanderUI.dll
+E:\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+E:\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FLogIn.resources
+E:\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+E:\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+E:\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+E:\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+E:\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+E:\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.1.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Images.v19.1.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.1.xml
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FAddCustomer.resources
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FBill.resources
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FBooking.resources
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FCustomer.resources
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FRoomInfo.resources
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FLogIn.resources
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FMain.resources
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TeamInfor.resources
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe.licenses
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.1.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\XanderUI.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Images.v19.1.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.1.xml
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FAddCustomer.resources
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FBill.resources
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FBooking.resources
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FRoomInfo.resources
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FLogIn.resources
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FMain.resources
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TeamInfor.resources
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe.licenses
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.1.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Images.v19.1.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.1.xml
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FAddCustomer.resources
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FBill.resources
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FBooking.resources
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FRoomInfo.resources
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FLogIn.resources
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FMain.resources
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TeamInfor.resources
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe.licenses
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FCustomerList.resources
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FRoomList.resources
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FBillList.resources
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FAccountInfo.resources
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FAccountInfo.resources
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FBillList.resources
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FCustomerList.resources
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FRoomList.resources
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FRoomType.resources
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FRoomType.resources
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FRoomStatus.resources
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FAccountList.resources
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FEmployee.resources
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FServicesCatogory.resources
+D:\C#\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FServicesList.resources
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FAccountList.resources
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FRoomStatus.resources
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FServicesCatogory.resources
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FServicesList.resources
+D:\C#_code\App-QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FEmployeeList.resources
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.1.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Images.v19.1.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\XanderUI.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.1.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FAccountList.resources
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FAccountInfo.resources
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FAddCustomer.resources
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FBill.resources
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FBillList.resources
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FBooking.resources
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FCustomerList.resources
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FEmployeeList.resources
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FRoomInfo.resources
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FLogIn.resources
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FMain.resources
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FRoomList.resources
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FRoomStatus.resources
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FRoomType.resources
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FServicesCatogory.resources
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FServicesList.resources
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TeamInfor.resources
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe.licenses
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraReports.v19.1.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.DataAccess.v19.1.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.CodeParser.v19.1.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraReports.v19.1.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.DataAccess.v19.1.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FReport.resources
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ReportRevenue.resources
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FDashBoard.resources
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FDashboard1.resources
+D:\C#_code\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FDashboard2.resources
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.1.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Images.v19.1.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraReports.v19.1.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.DataAccess.v19.1.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.CodeParser.v19.1.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.1.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraReports.v19.1.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.DataAccess.v19.1.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FAccountList.resources
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FAccountInfo.resources
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FAddCustomer.resources
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FBill.resources
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FBillList.resources
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FBooking.resources
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FCustomerList.resources
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FDashBoard.resources
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FEmployeeList.resources
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FReport.resources
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FRoomInfo.resources
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FLogIn.resources
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FMain.resources
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FRoomList.resources
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FRoomStatus.resources
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FRoomType.resources
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FServicesCatogory.resources
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FServicesList.resources
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ReportRevenue.resources
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TeamInfor.resources
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe.licenses
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+D:\C#\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml

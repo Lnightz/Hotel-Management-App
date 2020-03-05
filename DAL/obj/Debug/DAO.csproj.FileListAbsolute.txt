@@ -1,0 +1,2 @@
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\DAL\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\OneDrive\My Subject\WinForm\App-QLKS\QuanLyKhachSan\DAL\obj\Debug\DAO.csproj.CoreCompileInputs.cache
