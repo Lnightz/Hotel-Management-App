@@ -55,6 +55,7 @@
             this.barEditItem1 = new DevExpress.XtraBars.BarEditItem();
             this.repositoryItemTextEdit3 = new DevExpress.XtraEditors.Repository.RepositoryItemTextEdit();
             this.barButtonDisplayName = new DevExpress.XtraBars.BarButtonItem();
+            this.barButtonDashBoard = new DevExpress.XtraBars.BarButtonItem();
             this.ribbonPage_Admin = new DevExpress.XtraBars.Ribbon.RibbonPage();
             this.ribbonPageGroup_Account = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.ribbonPage_Menu = new DevExpress.XtraBars.Ribbon.RibbonPage();
@@ -75,7 +76,6 @@
             this.ribbonPage2 = new DevExpress.XtraBars.Ribbon.RibbonPage();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             this.barEditItem2 = new DevExpress.XtraBars.BarEditItem();
-            this.barButtonDashBoard = new DevExpress.XtraBars.BarButtonItem();
             ((System.ComponentModel.ISupportInitialize)(this.ribbonControl1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.repositoryItemTextEdit3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.repositoryItemSpinEdit1)).BeginInit();
@@ -314,6 +314,7 @@
             this.barButtonItemHotelInfo.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("barButtonItemHotelInfo.ImageOptions.Image")));
             this.barButtonItemHotelInfo.ImageOptions.LargeImage = ((System.Drawing.Image)(resources.GetObject("barButtonItemHotelInfo.ImageOptions.LargeImage")));
             this.barButtonItemHotelInfo.Name = "barButtonItemHotelInfo";
+            this.barButtonItemHotelInfo.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItemHotelInfo_ItemClick);
             // 
             // barButtonItemReport
             // 
@@ -341,6 +342,14 @@
             this.barButtonDisplayName.Id = 40;
             this.barButtonDisplayName.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("barButtonDisplayName.ImageOptions.SvgImage")));
             this.barButtonDisplayName.Name = "barButtonDisplayName";
+            // 
+            // barButtonDashBoard
+            // 
+            this.barButtonDashBoard.Caption = "DashBoard";
+            this.barButtonDashBoard.Id = 41;
+            this.barButtonDashBoard.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("barButtonDashBoard.ImageOptions.SvgImage")));
+            this.barButtonDashBoard.Name = "barButtonDashBoard";
+            this.barButtonDashBoard.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonDashBoard_ItemClick);
             // 
             // ribbonPage_Admin
             // 
@@ -490,14 +499,6 @@
             this.barEditItem2.Edit = this.repositoryItemTextEdit4;
             this.barEditItem2.Id = 38;
             this.barEditItem2.Name = "barEditItem2";
-            // 
-            // barButtonDashBoard
-            // 
-            this.barButtonDashBoard.Caption = "DashBoard";
-            this.barButtonDashBoard.Id = 41;
-            this.barButtonDashBoard.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("barButtonDashBoard.ImageOptions.SvgImage")));
-            this.barButtonDashBoard.Name = "barButtonDashBoard";
-            this.barButtonDashBoard.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonDashBoard_ItemClick);
             // 
             // FMain
             // 

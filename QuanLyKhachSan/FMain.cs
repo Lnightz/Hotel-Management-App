@@ -194,6 +194,12 @@ namespace QuanLyKhachSan
             FReport f = new FReport();
             f.ShowDialog();
         }
+        private void barButtonItemHotelInfo_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            FHotelInfo f = new FHotelInfo();
+            f.ShowDialog();
+        }
+
         #endregion
 
 

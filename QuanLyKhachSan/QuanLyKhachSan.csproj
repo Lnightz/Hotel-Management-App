@@ -177,6 +177,12 @@
     <Compile Include="FEmployeeList.Designer.cs">
       <DependentUpon>FEmployeeList.cs</DependentUpon>
     </Compile>
+    <Compile Include="FHotelInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FHotelInfo.Designer.cs">
+      <DependentUpon>FHotelInfo.cs</DependentUpon>
+    </Compile>
     <Compile Include="FRoomInfo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -283,6 +289,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FEmployeeList.resx">
       <DependentUpon>FEmployeeList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FHotelInfo.resx">
+      <DependentUpon>FHotelInfo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FRoomInfo.resx">
       <DependentUpon>FRoomInfo.cs</DependentUpon>
