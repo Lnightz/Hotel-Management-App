@@ -10,19 +10,14 @@ using System.Windows.Forms;
 
 namespace QuanLyKhachSan
 {
-    public partial class TeamInfor : DevExpress.XtraBars.Ribbon.RibbonForm
+    public partial class TeamInfor : DevExpress.XtraEditors.XtraForm
     {
         public TeamInfor()
         {
             InitializeComponent();
         }
 
-        private void barButtonItemOk2_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
-        {
-            this.Close();
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
+        private void label8_Click(object sender, EventArgs e)
         {
 
         }

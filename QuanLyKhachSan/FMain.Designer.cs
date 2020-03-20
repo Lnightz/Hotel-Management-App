@@ -339,6 +339,7 @@
             // 
             // barButtonDisplayName
             // 
+            this.barButtonDisplayName.Enabled = false;
             this.barButtonDisplayName.Id = 40;
             this.barButtonDisplayName.ImageOptions.SvgImage = ((DevExpress.Utils.Svg.SvgImage)(resources.GetObject("barButtonDisplayName.ImageOptions.SvgImage")));
             this.barButtonDisplayName.Name = "barButtonDisplayName";
