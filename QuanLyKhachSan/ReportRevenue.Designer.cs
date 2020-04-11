@@ -77,11 +77,11 @@
             // xrRichText1
             // 
             this.xrRichText1.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.xrRichText1.LocationFloat = new DevExpress.Utils.PointFloat(126.5152F, 9.999997F);
+            this.xrRichText1.LocationFloat = new DevExpress.Utils.PointFloat(126.5152F, 9.99999F);
             this.xrRichText1.Name = "xrRichText1";
             this.xrRichText1.Padding = new DevExpress.XtraPrinting.PaddingInfo(2, 2, 0, 0, 100F);
             this.xrRichText1.SerializableRtfString = resources.GetString("xrRichText1.SerializableRtfString");
-            this.xrRichText1.SizeF = new System.Drawing.SizeF(251.7045F, 62.77272F);
+            this.xrRichText1.SizeF = new System.Drawing.SizeF(426.2715F, 62.77272F);
             this.xrRichText1.StylePriority.UseFont = false;
             // 
             // xrPictureBox1
